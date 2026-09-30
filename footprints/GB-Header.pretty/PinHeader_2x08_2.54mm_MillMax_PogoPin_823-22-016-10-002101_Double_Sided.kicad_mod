@@ -560,7 +560,7 @@
 		(uuid "30aea41c-b1b5-4179-a662-3aeca357328e")
 	)
 	(embedded_fonts no)
-	(model "${KIPRJMOD}/GB-Kicad-Master-Library/3dmodels/GB-Header/Mill-Max_823-22-016-10-002101.step"
+	(model "${KIPRJMOD}/GB-Kicad-Master-Library/3dmodels/GB-Header-3D/Mill-Max_823-22-016-10-002101.step"
 		(offset
 			(xyz 0 0 0)
 		)
