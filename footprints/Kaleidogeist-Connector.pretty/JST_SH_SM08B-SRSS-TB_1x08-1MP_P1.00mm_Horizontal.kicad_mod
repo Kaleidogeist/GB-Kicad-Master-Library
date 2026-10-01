@@ -57,7 +57,7 @@
   (pad "8" smd roundrect (at 3.5 -2) (size 0.6 1.55) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25) (tstamp e6f41b7e-aab9-46a7-ae23-dfb5521ef70e))
   (pad "MP" smd roundrect (at -4.8 1.875) (size 1.2 1.8) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.208333) (tstamp 1e49ef52-b711-4376-af5e-22c5a4859606))
   (pad "MP" smd roundrect (at 4.8 1.875) (size 1.2 1.8) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.208333) (tstamp adbe3a0b-ae7e-4be7-ac08-cd93b0cb5229))
-  (model "${KIPRJMOD}/Honeydew.pretty/3d/SM08B-SRSS-TB.STEP"
+  (model "${KIPRJMOD}/Kaleidogeist-KiCad-Library/3dmodels/Kaleidogeist-Connector-3D/SM08B-SRSS-TB.STEP"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

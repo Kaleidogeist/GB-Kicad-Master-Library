@@ -113,7 +113,7 @@
   (pad "MP" smd roundrect (at 2.3 1.9) (size 2.4 1.8) (layers "B.Cu") (roundrect_rratio 0.208333) (tstamp e43cb96c-d035-4150-b656-142e82eb0e6f))
   (pad "MP" thru_hole circle (at 3.2 1.5) (size 0.6 0.6) (drill 0.3) (layers "*.Cu" "*.Mask") (tstamp 915e52e2-6a67-4228-9342-fa47eb1348d5))
   (pad "MP" thru_hole circle (at 3.2 2.3) (size 0.6 0.6) (drill 0.3) (layers "*.Cu" "*.Mask") (tstamp 278c40f1-b631-4ed0-863e-1a05dd01dd8f))
-  (model "${KIPRJMOD}/Cantaloupe.pretty/3d/SM03B-SRSS-TB.STEP"
+  (model "${KIPRJMOD}/Kaleidogeist-KiCad-Library/3dmodels/Kaleidogeist-Connector-3D/SM03B-SRSS-TB.STEP"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

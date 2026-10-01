@@ -53,7 +53,7 @@
   (pad "10" smd roundrect (at 0.2 -0.825) (size 0.2 0.65) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25) (tstamp a3109d16-f623-449c-affc-50ebd7a0c1b4))
   (pad "11" smd roundrect (at -0.2 -0.825) (size 0.2 0.65) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25) (tstamp 8c18c3bf-f5a3-413a-876e-8c914cdee183))
   (pad "12" smd roundrect (at -0.6 -0.825) (size 0.2 0.65) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25) (tstamp 873ac782-d3d5-4e5b-967a-cd2db794e5f8))
-  (model "${KIPRJMOD}/Honeydew.pretty/3d/X2QFN-12.stp"
+  (model "${KIPRJMOD}/Kaleidogeist-KiCad-Library/3dmodels/Kaleidogeist-Package-3D/X2QFN-12.stp"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

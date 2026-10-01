@@ -239,7 +239,7 @@
 		(uuid "64091833-76fd-4b2d-ae3f-07fa68bfd474")
 	)
 	(embedded_fonts no)
-	(model "${KIPRJMOD}/Honeydew.pretty/3d/USON-8-1EP_3x2mm_P0.5mm_EP1.6x0.2mm.stp"
+	(model "${KIPRJMOD}/Kaleidogeist-KiCad-Library/3dmodels/Kaleidogeist-Package-3D/USON-8-1EP_3x2mm_P0.5mm_EP1.6x0.2mm.stp"
 		(offset
 			(xyz 0 0 0)
 		)

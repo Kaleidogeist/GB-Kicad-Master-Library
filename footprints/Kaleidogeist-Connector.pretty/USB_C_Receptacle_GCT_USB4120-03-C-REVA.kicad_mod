@@ -430,7 +430,7 @@
 		(uuid "da11f0b1-07b2-4df0-a549-48188cc98796")
 	)
 	(embedded_fonts no)
-	(model "${KIPRJMOD}/Honeydew.pretty/3d/USB4120-03-C.step"
+	(model "${KIPRJMOD}/Kaleidogeist-KiCad-Library/3dmodels/Kaleidogeist-Connector-3D/USB4120-03-C.step"
 		(offset
 			(xyz 0 0 0)
 		)

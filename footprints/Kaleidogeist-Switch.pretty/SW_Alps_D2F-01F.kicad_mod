@@ -40,7 +40,7 @@
   (pad "1" thru_hole rect (at -5.08 0) (size 2.2 2.2) (drill 1.2) (layers "*.Cu" "*.Mask") (tstamp eeaf8afc-bc68-42e6-8645-56d61e0e9bb3))
   (pad "2" thru_hole circle (at 0 0) (size 2.2 2.2) (drill 1.2) (layers "*.Cu" "*.Mask") (tstamp 3d5f984f-8539-4b24-8a3c-39461afd76fe))
   (pad "3" thru_hole circle (at 5.08 0) (size 2.2 2.2) (drill 1.2) (layers "*.Cu" "*.Mask") (tstamp 636e669b-1caa-46e6-8920-903721351a28))
-  (model "${KIPRJMOD}/Honeydew.pretty/3d/D2F-01F.step"
+  (model "${KIPRJMOD}/Kaleidogeist-KiCad-Library/3dmodels/Kaleidogeist-Switch-3D/D2F-01F.step"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

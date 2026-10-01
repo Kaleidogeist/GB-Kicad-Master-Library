@@ -474,7 +474,7 @@
 			(xyz 0 0 0)
 		)
 	)
-	(model "${KIPRJMOD}/Honeydew.pretty/3d/HRO-TYPE-C-31-M-14.step"
+	(model "${KIPRJMOD}/Kaleidogeist-KiCad-Library/3dmodels/Kaleidogeist-Connector-3D/HRO-TYPE-C-31-M-14.step"
 		(offset
 			(xyz 0 0 0)
 		)

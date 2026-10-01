@@ -37,7 +37,7 @@
     (stroke (width 0.1) (type solid)) (layer "F.Fab") (tstamp 27871191-4170-4915-b012-2908b0488fb2))
   (pad "1" smd rect (at 1.25 0) (size 1 1.8) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 5f309129-2787-4831-83e1-b8e47abd636c))
   (pad "2" smd rect (at -1.25 0) (size 1 1.8) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp e5e4f8c5-e618-44fc-825d-06f612513e80))
-  (model "${KIPRJMOD}/Cantaloupe.pretty/3d/Crystal_SMD_3215-2Pin_3.2x1.5mm.STEP"
+  (model "${KIPRJMOD}/Kaleidogeist-KiCad-Library/3dmodels/Kaleidogeist-Device-3D/Crystal_SMD_3215-2Pin_3.2x1.5mm.STEP"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

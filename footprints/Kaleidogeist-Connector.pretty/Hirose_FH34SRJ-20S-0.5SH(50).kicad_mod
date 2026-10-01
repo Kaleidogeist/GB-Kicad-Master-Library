@@ -243,7 +243,7 @@
   (pad "20" smd rect (at -4.75 -2.5) (size 0.3 0.8) (layers "F.Cu" "F.Mask") (tstamp 11c857d0-dd77-4329-8d41-3f956ddb4537))
   (pad "MP" smd rect (at -5.75 0) (size 0.4 0.8) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 443b818d-0974-4adc-ba22-9afa5e761b5b))
   (pad "MP" smd rect (at 5.75 0) (size 0.4 0.8) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 96e4b566-f2cd-4664-8ed0-101e870149eb))
-  (model "${KIPRJMOD}/Honeydew.pretty/3d/FH34SRJ-20S-0.5SH.step"
+  (model "${KIPRJMOD}/Kaleidogeist-KiCad-Library/3dmodels/Kaleidogeist-Connector-3D/FH34SRJ-20S-0.5SH.step"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

@@ -182,7 +182,7 @@
   (pad "1" smd rect (at -2.5 -2.75) (size 1.25 2.5) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 29335feb-4151-44aa-9640-41583345c7f0))
   (pad "2" smd rect (at 0 -2.75) (size 1.25 2.5) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp afaca5c8-1ae4-425f-8534-d3d6f7e05359))
   (pad "3" smd rect (at 2.5 -2.75) (size 1.25 2.5) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 0157b91f-85d0-4483-95f1-29a5cdc70947))
-  (model "${KIPRJMOD}/Honeydew.pretty/3d/JS102011SAQN.step"
+  (model "${KIPRJMOD}/Kaleidogeist-KiCad-Library/3dmodels/Kaleidogeist-Switch-3D/JS102011SAQN.step"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
