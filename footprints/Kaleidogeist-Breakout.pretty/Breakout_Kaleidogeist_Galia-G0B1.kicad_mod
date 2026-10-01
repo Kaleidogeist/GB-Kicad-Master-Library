@@ -1228,7 +1228,7 @@
 		(uuid "ed02b777-397d-40fa-b288-bb5225d7f835")
 	)
 	(embedded_fonts no)
-	(model "${KIPRJMOD}/GB-Kicad-Master-Library/3dmodels/GB-Breakout-3D/Breakout_GhostlyButterfly_Galia-G0B1.step"
+	(model "${KIPRJMOD}/Kaleidogeist-KiCad-Library/3dmodels/Kaleidogeist-Breakout-3D/Breakout_GhostlyButterfly_Galia-G0B1.step"
 		(offset
 			(xyz 0 0 3)
 		)

@@ -559,7 +559,7 @@
 		(uuid "ae391a43-5621-4316-908b-bfe613fb4da9")
 	)
 	(embedded_fonts no)
-	(model "${KIPRJMOD}/GB-Kicad-Master-Library/3dmodels/GB-Header-3D/Mill-Max_419-10-216-00-001000.STEP"
+	(model "${KIPRJMOD}/Kaleidogeist-KiCad-Library/3dmodels/Kaleidogeist-PinHeader-3D/Mill-Max_419-10-216-00-001000.STEP"
 		(offset
 			(xyz 0 0 0)
 		)

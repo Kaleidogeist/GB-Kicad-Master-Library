@@ -727,7 +727,7 @@
 		(uuid "f2790cff-f37e-452d-a356-43507e612321")
 	)
 	(embedded_fonts no)
-	(model "${KIPRJMOD}/GB-Kicad-Master-Library/3dmodels/GB-Connector-3D/Hirose_CX70M-24P1.step"
+	(model "${KIPRJMOD}/Kaleidogeist-KiCad-Library/3dmodels/Kaleidogeist-Connector-3D/Hirose_CX70M-24P1.step"
 		(offset
 			(xyz 0 0 0)
 		)

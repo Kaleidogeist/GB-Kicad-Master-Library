@@ -943,7 +943,7 @@
 		)
 	)
 	(embedded_fonts no)
-	(model "${KIPRJMOD}/GB-Kicad-Master-Library/3dmodels/GB-Switch-3D/SW_KB_Gateron-KS33-Socket.step"
+	(model "${KIPRJMOD}/Kaleidogeist-KiCad-Library/3dmodels/Kaleidogeist-Keyboard-3D/SW_KB_Gateron-KS33-Socket.step"
 		(offset
 			(xyz -5.025 -7.925 1.8375)
 		)

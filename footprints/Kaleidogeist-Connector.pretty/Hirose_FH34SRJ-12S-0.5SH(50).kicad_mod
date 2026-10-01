@@ -440,7 +440,7 @@
 		(uuid "59a70b10-fefc-4218-8670-74883d66f406")
 	)
 	(embedded_fonts no)
-	(model "${KICAD_GITHUB}/Galia/PCB/GB-Kicad-Master-Library/3dmodels/GB-Connector-3D/Hirose_FH34SRJ-12S-0.5SH(50).step"
+	(model "${KICAD_GITHUB}/Galia/PCB/Kaleidogeist-KiCad-Library/3dmodels/Kaleidogeist-Connector-3D/Hirose_FH34SRJ-12S-0.5SH(50).step"
 		(offset
 			(xyz 0 0 0)
 		)

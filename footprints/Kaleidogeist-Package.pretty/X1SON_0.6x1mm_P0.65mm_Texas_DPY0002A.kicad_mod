@@ -149,7 +149,7 @@
 		(uuid "52646922-8b3a-4837-8169-20324ed642e4")
 	)
 	(embedded_fonts no)
-	(model "${KIPRJMOD}/GB-Kicad-Master-Library/3dmodels/GB-Package-3D/Texas_X1SON_X1SON-2 0.6x1mm.stp"
+	(model "${KIPRJMOD}/Kaleidogeist-KiCad-Library/3dmodels/Kaleidogeist-Package-3D/Texas_X1SON_X1SON-2 0.6x1mm.stp"
 		(offset
 			(xyz 0 0 0)
 		)

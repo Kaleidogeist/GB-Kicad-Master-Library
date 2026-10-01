@@ -154,7 +154,7 @@
       )
     )
   )
-  (model "${KIPRJMOD}/Cantaloupe.pretty/3d/MDBT50Q-U1MV2.STEP"
+  (model "${KIPRJMOD}/Kaleidogeist-KiCad-Library/3dmodels/Kaleidogeist-Breakout-3D/Breakout_Raytac_MDBT50Q-U1MV2.STEP"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

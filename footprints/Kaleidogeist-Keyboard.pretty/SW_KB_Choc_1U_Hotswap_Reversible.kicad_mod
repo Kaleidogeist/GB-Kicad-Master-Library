@@ -858,7 +858,7 @@
 		)
 	)
 	(embedded_fonts no)
-	(model "${KIPRJMOD}/GB-Kicad-Master-Library/3dmodels/GB-Switch-3D/SW_KB_Kailh_Choc-Socket-CPG135001S30.step"
+	(model "${KIPRJMOD}/Kaleidogeist-KiCad-Library/3dmodels/Kaleidogeist-Keyboard-3D/SW_KB_Kailh_Choc-Socket-CPG135001S30.step"
 		(offset
 			(xyz 0 0 0)
 		)

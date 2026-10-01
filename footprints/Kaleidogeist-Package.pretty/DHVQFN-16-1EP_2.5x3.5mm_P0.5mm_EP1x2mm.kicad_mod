@@ -541,7 +541,7 @@
 		(uuid "7b637220-793d-46fa-b57d-4155304dd3fb")
 	)
 	(embedded_fonts no)
-	(model "${KIPRJMOD}/GB-Kicad-Master-Library/3dmodels/GB-Package-3D/NXP_SOT763-1.step"
+	(model "${KIPRJMOD}/Kaleidogeist-KiCad-Library/3dmodels/Kaleidogeist-Package-3D/NXP_SOT763-1.step"
 		(offset
 			(xyz 0 0 0)
 		)

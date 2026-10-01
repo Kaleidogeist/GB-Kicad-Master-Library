@@ -573,7 +573,7 @@
 		(uuid "7e3be6f0-812c-4422-bc88-73f340997a53")
 	)
 	(embedded_fonts no)
-	(model "${KIPRJMOD}/GB-Kicad-Master-Library/3dmodels/GB-Switch-3D/SW_Alps_SKSNLP.STEP"
+	(model "${KIPRJMOD}/Kaleidogeist-KiCad-Library/3dmodels/Kaleidogeist-Switch-3D/SW_Alps_SKSNLP.STEP"
 		(offset
 			(xyz 0 0 0)
 		)

@@ -1154,7 +1154,7 @@
 		(uuid "dc306d38-2073-4a2e-b912-fc3e6da96f79")
 	)
 	(embedded_fonts no)
-	(model "${KIPRJMOD}/GB-Kicad-Master-Library/3dmodels/GB-Connector-3D/Molex_2169900001.step"
+	(model "${KIPRJMOD}/Kaleidogeist-KiCad-Library/3dmodels/Kaleidogeist-Connector-3D/Molex_2169900001.step"
 		(offset
 			(xyz 0 0 0)
 		)

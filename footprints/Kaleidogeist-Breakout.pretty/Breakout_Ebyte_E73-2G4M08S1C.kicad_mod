@@ -675,7 +675,7 @@
 		(uuid "0752a5b0-6e97-4dca-975a-bb9c3da52ad8")
 	)
 	(embedded_fonts no)
-	(model "${KIPRJMOD}/GB-Kicad-Master-Library/3dmodels/GB-Breakout-3D/Breakout_Ebyte_E73-2G4M08S1C.step"
+	(model "${KIPRJMOD}/Kaleidogeist-KiCad-Library/3dmodels/Kaleidogeist-Breakout-3D/Breakout_Ebyte_E73-2G4M08S1C.step"
 		(offset
 			(xyz 0 0 0)
 		)

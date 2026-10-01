@@ -595,7 +595,7 @@
 		(uuid "0017ffca-b5e5-4123-9a98-5c52a02d7144")
 	)
 	(embedded_fonts no)
-	(model "${KIPRJMOD}/GB-Kicad-Master-Library/3dmodels/GB-Header-3D/Samtec_FTSH-105-01-L-D-K.step"
+	(model "${KIPRJMOD}/Kaleidogeist-KiCad-Library/3dmodels/Kaleidogeist-PinHeader-3D/Samtec_FTSH-105-01-L-D-K.step"
 		(offset
 			(xyz 0 0 0)
 		)

@@ -177,7 +177,7 @@
 		(uuid "fc54d781-1c41-4f8c-bd9a-91db64656162")
 	)
 	(embedded_fonts no)
-	(model "${KIPRJMOD}/GB-Kicad-Master-Library/3dmodels/GB-Device-3D/Fuse_1812_4532Metric.STEP"
+	(model "${KIPRJMOD}/Kaleidogeist-KiCad-Library/3dmodels/Kaleidogeist-Device-3D/Fuse_1812_4532Metric.STEP"
 		(offset
 			(xyz 0 0 0)
 		)

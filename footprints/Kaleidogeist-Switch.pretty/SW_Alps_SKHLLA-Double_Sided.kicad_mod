@@ -744,7 +744,7 @@
 		)
 	)
 	(embedded_fonts no)
-	(model "${KICAD_GITHUB}/Galia/PCB/GB-Kicad-Master-Library/3dmodels/GB-Switch-3D/SW_Alps_SKHLLA.STEP"
+	(model "${KICAD_GITHUB}/Galia/PCB/Kaleidogeist-KiCad-Library/3dmodels/Kaleidogeist-Switch-3D/SW_Alps_SKHLLA.STEP"
 		(offset
 			(xyz 0 0 0)
 		)

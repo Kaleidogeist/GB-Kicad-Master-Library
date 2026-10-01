@@ -1070,7 +1070,7 @@
 		(uuid "17a30ffb-0426-432e-b0eb-ff7e4a30c5c8")
 	)
 	(embedded_fonts no)
-	(model "${KIPRJMOD}/GB-Kicad-Master-Library/3dmodels/GB-Connector-3D/HRO_TYPE-C-31-M-13C.step"
+	(model "${KIPRJMOD}/Kaleidogeist-KiCad-Library/3dmodels/Kaleidogeist-Connector-3D/HRO_TYPE-C-31-M-13C.step"
 		(offset
 			(xyz 0 0 0)
 		)
