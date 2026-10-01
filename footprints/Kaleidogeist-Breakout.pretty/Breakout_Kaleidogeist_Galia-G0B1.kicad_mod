@@ -1,4 +1,4 @@
-(footprint "Breakout_GhostlyButterfly_Galia-G0B1"
+(footprint "Breakout_Kaleidogeist_Galia-G0B1"
 	(version 20260206)
 	(generator "pcbnew")
 	(generator_version "10.0")
@@ -16,7 +16,7 @@
 			)
 		)
 	)
-	(property "Value" "Breakout_GhostlyButterfly_Galia-G0B1"
+	(property "Value" "Breakout_Kaleidogeist_Galia-G0B1"
 		(at 0 1 0)
 		(unlocked yes)
 		(layer "F.Fab")
@@ -1228,7 +1228,7 @@
 		(uuid "ed02b777-397d-40fa-b288-bb5225d7f835")
 	)
 	(embedded_fonts no)
-	(model "${KIPRJMOD}/Kaleidogeist-KiCad-Library/3dmodels/Kaleidogeist-Breakout-3D/Breakout_GhostlyButterfly_Galia-G0B1.step"
+	(model "${KIPRJMOD}/Kaleidogeist-KiCad-Library/3dmodels/Kaleidogeist-Breakout-3D/Breakout_Kaleidogeist_Galia-G0B1.step"
 		(offset
 			(xyz 0 0 3)
 		)
